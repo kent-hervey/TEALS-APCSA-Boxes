@@ -10,8 +10,7 @@ public class DrawBoxes3 {
 	}
 
 	public static void main(String[] args) {
-		DrawBoxes3.drawbox(); // Note that Class designation DrawBoxes3 is optional because we are in that
-								// class
+		DrawBoxes3.drawbox(); // Note that Class designation DrawBoxes3 is optional because we are in that class
 		System.out.println();
 		DrawBoxes3.drawbox();
 		System.out.println();
