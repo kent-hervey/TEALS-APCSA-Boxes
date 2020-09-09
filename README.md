@@ -8,70 +8,11 @@ Section starting ?/More fun below uses methods in a second class with some flexi
 
 Result of running program as is:
 
-+-------+
-|       |
-|       |
-+-------+
+![Image](readmeimages/output.JPG "Output")  
 
-+-------+
-|       |
-|       |
-+-------+
 
-+-------+
-|       |
-|       |
-+-------+
-Now we will draw this many boxes: 3
-+-------+
-|       |
-|       |
-+-------+
-+-------+
-|       |
-|       |
-+-------+
-+-------+
-|       |
-|       |
-+-------+
-Now we will draw this many boxes: 2 ,with this width and height:  8 , 4
-+------+
-|      |
-|      |
-+------+
 
-+------+
-|      |
-|      |
-+------+
 
-Now we will draw this many boxes: 2 ,with this width and height:  32 , 12
-+------------------------------+
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-+------------------------------+
-
-+------------------------------+
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-|                              |
-+------------------------------+
 
 
 
