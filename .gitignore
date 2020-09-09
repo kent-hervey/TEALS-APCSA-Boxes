@@ -1,0 +1,44 @@
+#referenced James Coyle
+
+#Extras
+localnotes.txt
+*.lnk
+*trashme*
+*.docx
+.vscode/settings.json
+*settings.json
+*.mvn/wrapper
+.settings/
+target/
+*.classpath
+.project
+/.metadata/
+
+## Java related
+target/**
+*.jar
+*.war
+*.ear
+*.class
+
+# eclipse specific
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
+#Extras
+*.txt
+
+/bin/
